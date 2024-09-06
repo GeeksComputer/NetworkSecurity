@@ -4,4 +4,4 @@ Running c# code using dotnet version 8
 
 # Note
 You can running it on windows 10 or later /linux based such as ubuntu
-If you want run c/c++ code please use wsl
+If you want run c/c++ code on windows, please use wsl
